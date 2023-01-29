@@ -89,7 +89,7 @@
   "solhint": "^3.3.6",
   
     
-  "solidity-coverage": "^0.7.16",
+  "solidity-coverage": "^0.8.0",
   
     
   "ts-node": "^10.1.0",
